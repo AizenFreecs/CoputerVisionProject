@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 10
+names: ['Chin Flick', 'Corna', 'Dulya', 'Fist Mouth', 'Five Fathers', 'Middle Finger', 'Moutza', 'Okay', 'Reversed Victory', 'Thumbs Up']
+
+roboflow:
+  workspace: aizen
+  project: og_dataset_final
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/aizen/og_dataset_final/dataset/2
