@@ -6,7 +6,7 @@ This project focuses on computer vision-based object detection, specifically tar
 
 ## The Dataset 📊🔍
 
-The dataset utilized in this project has been meticulously curated to ensure diversity and robustness in model training. It comprises over 100 images sourced from five different models, captured under various orientations, lighting conditions, and environmental settings. To enhance the dataset's quality and improve training efficiency, rigorous preprocessing techniques, including augmentation, have been applied.
+The dataset utilized in this project has been meticulously curated to ensure diversity and robustness in model training. It comprises over 2000 images sourced from five different models, captured under various orientations, lighting conditions, and environmental settings. To enhance the dataset's quality and improve training efficiency, rigorous preprocessing techniques and various augmentations have been applied.
 
 ## The Models 🤖📋
 
